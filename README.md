@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Panagiotis Fakitsas
-- 👀 I’m interested in Game Development and more specifically in Graphics Programming 
+- 👀 I’m interested in Game Development and in Graphics Programming 
 - 🌱 I’m currently learning rendering techniques on 3D Graphics
-- 💞️ I’m looking to collaborate on game projects for graphics programming
+- 💞️ I’m looking to collaborate on game projects for games and graphics programming
 - 📫 Email: panagiotis_fakitsas@yahoo.com
 
 <!---
